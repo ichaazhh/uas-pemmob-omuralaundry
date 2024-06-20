@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565159665428",
+    "project_id": "laundry-c3745",
+    "storage_bucket": "laundry-c3745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565159665428:android:ea0bbd5909afb5d1e8ac01",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVCE8EalnchlhG_v8zr773_Del1nhJWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
